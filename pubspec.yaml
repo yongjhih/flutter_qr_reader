@@ -10,7 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  image_picker: ^0.6.0+9
+  #image_picker: ^0.6.0+9
+  image_picker: ^0.4.12+1
 
 dev_dependencies:
   flutter_test:
