@@ -14,7 +14,9 @@ dependencies:
   cupertino_icons: ^0.1.2
   #permission_handler: '^3.0.0'
   permission_handler:
-    git: https://github.com/yongjhih/flutter-permission-handler.git
+    git:
+      url: https://github.com/yongjhih/flutter-permission-handler.git
+      ref: 76c22ab3affbbc97a77e2f6dea1c2137402b9865
   #image_picker: ^0.6.0+9
   image_picker: ^0.4.12+1
 
